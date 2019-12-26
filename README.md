@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+**[appxr.com](./)** 是一个非学术资料库，涵盖从基础学科到应用科学等诸多领域的知识技术信息。
 
-You can use the [editor on GitHub](https://github.com/aimator/aimator.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 基础学科
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **[数学]()**
 
-### Markdown
+- **[心理学]()**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### 经济学
 
-# Header 1
-## Header 2
-### Header 3
+- **[宏观经济学]()**
 
-- Bulleted
-- List
+- **[微观经济学]()**
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### 管理学
 
-[Link](url) and ![Image](src)
-```
+- **[营销管理]()**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **[人力资源管理]()**
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aimator/aimator.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 语言学
 
-### Support or Contact
+- **[汉语]()**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **[英语]()**
+
+---
+
+### 计算机
+
+- **[开发](./computer/development/development)**
+	- **[Markdown](./computer/development/markdown)**
+	- **[Html](./computer/development/html)**
+	- **[Shell](./computer/development/shell)**
+
+- **[应用](./computer/applications/applications)**
+	- **[Git](./computer/applications/git)**
+
+- **[系统](./computer/system/system)**
+	- **[OS](./computer/system/os)**
+	- **[Ubuntu](./computer/system/ubuntu)**
+
+---
+
+### 艺术
+
+- **[平面](./art/graphics/graphics)**
+	- **[交互设计](./art/graphics/user-interface-design)**
+	- **[广告设计](./art/graphics/advertisement-design)**
