@@ -1,0 +1,4 @@
+@@||www.google.com^$important,document,~extension
+@@||www.google.com^$important,document,~extension
+@@||github.com^$document
+@@||github.io^$document
