@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\art",
+    "\\art\\graphics",
+    "\\computer",
+    "\\computer\\development"
   ],
-  "SelectedNode": "\\about.md",
+  "SelectedNode": "\\computer\\development\\markdown_advanced_usage.md",
   "PreviewInSolutionExplorer": false
 }
